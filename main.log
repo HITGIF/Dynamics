@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.euc) (TeX Live 2017) (preloaded format=platex 2017.12.21)  18 APR 2018 04:06
+This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.euc) (TeX Live 2017) (preloaded format=platex 2017.12.21)  20 APR 2018 05:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -347,66 +347,90 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 4.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
+) [3
+
+])
 \tf@toc=\write3
 \openout3 = `main.toc'.
 
 
-(./source/chapter1.tex [3
+(./source/chapter1.tex
 
-]
+LaTeX Font Warning: Font shape `JT1/mc/m/sl' undefined
+(Font)              using `JT1/mc/m/n' instead on input line 2.
+
+
+LaTeX Font Warning: Font shape `JY1/mc/m/sl' undefined
+(Font)              using `JY1/mc/m/n' instead on input line 2.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 15.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[4]
 第 1 章
-[4
+[5
 
 ]
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <24.88> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 4.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <24.88> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 4.
- [5
+ [6
 
 ]
 第 2 章
-[6
+[7
 
 ]
 第 3 章
-[7
+[8
 
-] [8
+] [9
 
-]
+] [10]
 第 4 章
-[9
-
-] [10
-
-]
-第 5 章
 [11
 
 ] [12
 
 ]
-第 6 章
-) (./main.bbl [13
+第 5 章
+[13
 
-]) 
+] [14
+
+] [15]
+第 6 章
+[16
+
+]
+第 7 章
+) (./main.bbl) 
 AED: lastpage setting LastPage
-[14
+[17
 
 ]
 \tf@thm=\write4
 \openout4 = `main.thm'.
 
- (./main.aux) ) 
-Here is how much of TeX's memory you used:
- 2828 strings out of 493653
- 35905 string characters out of 6148873
- 102400 words of memory out of 5000000
- 6361 multiletter control sequences out of 15000+600000
- 16501 words of font info for 66 fonts, out of 8000000 for 9000
- 929 hyphenation exceptions out of 8191
- 27i,14n,43p,221b,225s stack positions out of 5000i,500n,10000p,200000b,80000s
+ (./main.aux)
 
-Output written on main.dvi (14 pages, 8984 bytes).
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2834 strings out of 493653
+ 35980 string characters out of 6148873
+ 102398 words of memory out of 5000000
+ 6366 multiletter control sequences out of 15000+600000
+ 16854 words of font info for 67 fonts, out of 8000000 for 9000
+ 929 hyphenation exceptions out of 8191
+ 30i,14n,43p,221b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on main.dvi (17 pages, 11392 bytes).
