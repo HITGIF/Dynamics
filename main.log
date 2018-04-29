@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.euc) (TeX Live 2017) (preloaded format=platex 2017.12.21)  25 APR 2018 19:22
+This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.euc) (TeX Live 2017) (preloaded format=platex 2017.12.21)  30 APR 2018 00:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -338,12 +338,12 @@ LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 2.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 2.
-LaTeX Font Info:    Try loading font information for U+msa on input line 5.
+LaTeX Font Info:    Try loading font information for U+msa on input line 4.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 5.
+LaTeX Font Info:    Try loading font information for U+msb on input line 4.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -426,11 +426,22 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <24.88> not available
 
 ]
 第 11 章
-) (./main.bbl) 
-AED: lastpage setting LastPage
-[23
+) [23
 
 ]
+** Generating table of Definition
+(./main.thm
+Overfull \hbox (2.55557pt too wide) detected at line 8
+\OT1/cmr/m/n/10 11.1.1 
+ []
+
+) [24
+
+]
+** Generating table of Theorem
+(./main.thm) (./main.bbl) 
+AED: lastpage setting LastPage
+[25]
 \tf@thm=\write4
 \openout4 = `main.thm'.
 
@@ -440,12 +451,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 2835 strings out of 493653
- 35991 string characters out of 6148873
+ 2839 strings out of 493653
+ 36027 string characters out of 6148873
  102398 words of memory out of 5000000
  6367 multiletter control sequences out of 15000+600000
  16854 words of font info for 67 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 30i,16n,43p,221b,320s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,16n,43p,221b,322s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (23 pages, 16812 bytes).
+Output written on main.dvi (25 pages, 21808 bytes).
